@@ -16,7 +16,6 @@ The **Journal Application** is a Python-based tool designed to help users effici
 ## Prerequisites
 
 To run the Journal Application, ensure you have the following installed:
-- Python 3.x
 - `pyfiglet` library for styled text (`pip install pyfiglet`)
 - `tabulate` library for table formatting (`pip install tabulate`)
 
